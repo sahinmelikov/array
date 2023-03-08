@@ -1,0 +1,15 @@
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.csproj.AssemblyReference.cache
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.AssemblyInfoInputs.cache
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.AssemblyInfo.cs
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.csproj.CoreCompileInputs.cache
+C:\Users\555\source\repos\Task2_Js_ap208\bin\Debug\net6.0\Task2_Js_ap208.exe
+C:\Users\555\source\repos\Task2_Js_ap208\bin\Debug\net6.0\Task2_Js_ap208.deps.json
+C:\Users\555\source\repos\Task2_Js_ap208\bin\Debug\net6.0\Task2_Js_ap208.runtimeconfig.json
+C:\Users\555\source\repos\Task2_Js_ap208\bin\Debug\net6.0\Task2_Js_ap208.dll
+C:\Users\555\source\repos\Task2_Js_ap208\bin\Debug\net6.0\Task2_Js_ap208.pdb
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.dll
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\refint\Task2_Js_ap208.dll
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.pdb
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\Task2_Js_ap208.genruntimeconfig.cache
+C:\Users\555\source\repos\Task2_Js_ap208\obj\Debug\net6.0\ref\Task2_Js_ap208.dll
